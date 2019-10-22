@@ -1,0 +1,40 @@
+.index-bg{
+    background-image: url(https://assets.biltmore.com/wp-content/uploads/2019/05/31181545/BiltmoreHomeBannerAfternoon.jpg);
+    background-position: center;
+    width: 100%;;
+}
+
+.garden-bg{
+    background-image: url(https://assets.biltmore.com/wp-content/uploads/2019/09/20204522/mum-header.jpg);
+    background-position: center;
+    width: 100%;;
+}
+
+.video-bg { 
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    transform: translateX(-50%) translateY(-50%);
+    background: url('//demosthenes.info/assets/images/polina.jpg') no-repeat;
+    background-size: cover;
+}
+.image-size{
+    height:450px;
+}
+
+.kid-friendly-bg{
+      background-image: url(https://assets.biltmore.com/wp-content/uploads/2019/08/11135637/kidhero.jpg);;
+    background-position: center;
+    width: 100%;;  
+}
+
+.wine-food-bg{
+    background-image: url(https://assets.biltmore.com/wp-content/uploads/2019/08/30150640/red-wine-chocolates.jpg);
+    background-position: center;
+    width: 100%;;
+}
