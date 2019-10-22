@@ -1,3 +1,8 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    line-height: 30px;
+}
 .index-bg{
     background-image: url(https://assets.biltmore.com/wp-content/uploads/2019/05/31181545/BiltmoreHomeBannerAfternoon.jpg);
     background-position: center;
@@ -37,4 +42,8 @@
     background-image: url(https://assets.biltmore.com/wp-content/uploads/2019/08/30150640/red-wine-chocolates.jpg);
     background-position: center;
     width: 100%;;
+}
+
+.bg-light{
+    background-color: white !important;
 }
