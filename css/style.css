@@ -4,7 +4,7 @@ body{
     line-height: 30px;
 }
 .index-bg{
-    background-image: url(https://assets.biltmore.com/wp-content/uploads/2019/05/31181545/BiltmoreHomeBannerAfternoon.jpg);
+    background-image: url('../img/BiltmoreHomeBanner.jpg');
     background-position: center;
     width: 100%;;
 }
